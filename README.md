@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![zhiqi-li's GitHub stats](https://github-readme-stats.vercel.app/api?username=czczup&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![zhiqi-li's GitHub stats](https://github-readme-stats.vercel.app/api?username=czczup&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Related source is copied from: https://kilienazure.com/github-profile-readme/
