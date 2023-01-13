@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![czczup's GitHub stats](https://github-readme-stats.vercel.app/api?username=czczup&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![czczup's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=czczup&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Related source is copied from: https://kilienazure.com/github-profile-readme/
