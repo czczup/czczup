@@ -27,6 +27,6 @@ Related source is copied from: https://kilienazure.com/github-profile-readme/
 - [x] [DDP](https://github.com/JiYuanFeng/DDP) - DDP extends the denoising diffusion process into the modern perception pipeline and shows attractive properties such as dynamic inference and uncertainty awareness.
 
 #### Competitions:
-- [x] [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - 1st place in 5 Ego4D challenges, ECCV 2022.
-- [x] [WSDM Cup 2023](https://github.com/czczup/ViT-Adapter/tree/main/wsdm2023) - 1st place in the Toloka VQA Challenge, WSDM 2022.
-- [x] [NAIC 2020](https://github.com/czczup/NAIC_RS_NJU_FINAL) - 1st place in the remote sensing semantic segmentation task.
+- [x] [Ego4D 2022](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - 1st place in 5 Ego4D challenges.
+- [x] [WSDM Cup 2023](https://github.com/czczup/ViT-Adapter/tree/main/wsdm2023) - 1st place in the Toloka VQA Challenge.
+- [x] [NAIC 2020](https://github.com/czczup/NAIC_RS_NJU_FINAL) - 1st place in the remote sensing semantic segmentation track.
