@@ -19,7 +19,7 @@ Related source is copied from: https://kilienazure.com/github-profile-readme/
 
 #### My recent works:
 
-- [x] [InternImage [CVPR2023 Spotlight]](https://github.com/OpenGVLab/InternImage) - Best performing image-based universal backbone model with up to 3 billion parameters. 90.1% Top1 accuracy in ImageNet, 65.5 mAP on COCO object detection.
+- [x] [InternImage [CVPR2023 Spotlight]](https://github.com/OpenGVLab/InternImage) - Best performing image-based universal backbone model with up to 3 billion parameters. 90.1% Top1 accuracy in ImageNet, 65.5 mAP on COCO object detection, 62.9 mIoU on ADE20K semantic segmentation.
 - [x] [ViT-Adapter [ICLR2023 Highlight]](https://github.com/czczup/ViT-Adapter/) - A simple yet powerful adapter for pure ViT, which can remedy the defects of ViT and achieve comparable performance to vision-specific models in dense prediction tasks.
 - [x] [GPTrans [IJCAI2023]](https://github.com/czczup/GPTrans) - This work presents a novel transformer architecture for graph representation learning.
 - [x] [URST [AAAI2023]](https://github.com/czczup/URST) - URST is a versatile framework for ultra-high resolution style transfer under limited GPU memory resources.
