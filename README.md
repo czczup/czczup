@@ -30,4 +30,4 @@ Related source is copied from: https://kilienazure.com/github-profile-readme/
 
 #### Competitions:
 - [x] [Toloka VQA Challenge, WSDM Cup 2023, 1st Place](https://github.com/czczup/ViT-Adapter/tree/main/wsdm2023) - Given an image and a textual question, draw the bounding box around the object correctly responding to that question. Our team wins the championship using ViT-Adapter.
-- [x] [The 2nd National Artificial Intelligence Challenge (NAIC), 1st Place](https://github.com/czczup/NAIC_RS_NJU_FINAL) - Our team wins the champion of the remote sensing semantic segmentation Task, NAIC 2020.
+- [x] [The 2nd National Artificial Intelligence Challenge (NAIC), 1st Place](https://github.com/czczup/NAIC_RS_NJU_FINAL) - Our team wins the champion of the remote sensing semantic segmentation task, NAIC 2020.
