@@ -27,3 +27,7 @@ Related source is copied from: https://kilienazure.com/github-profile-readme/
 - [x] [InternGPT](https://github.com/OpenGVLab/InternGPT) - An open-source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc.
 - [x] [VisionLLM](https://github.com/OpenGVLab/VisionLLM) - A unified perspective for vision and language tasks by treating images as a foreign language and aligning vision-centric tasks with language tasks that can be flexibly defined and managed using language instructions.
 - [x] [DDP](https://github.com/JiYuanFeng/DDP) - DDP extends the denoising diffusion process into the modern perception pipeline and shows attractive properties such as dynamic inference and uncertainty awareness.
+
+### Competitions:
+- [x] [Toloka VQA Challenge, WSDM Cup 2023, 1st Place](https://scholar.google.com/) - Given an image and a textual question, draw the bounding box around the object correctly responding to that question. Our team wins the championship using ViT-Adapter.
+- [x] [The 2nd National Artificial Intelligence Challenge (NAIC), 1st Place](https://github.com/czczup/NAIC_RS_NJU_FINAL) - Our team wins the champion and 1,000,000 RMB Bonus of the remote sensing semantic segmentation Task, NAIC 2020.
