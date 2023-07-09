@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Related source is copied from: https://kilienazure.com/github-profile-readme/
 -->
 
-#### My recent works:
+#### Recent works:
 
 - [x] [InternImage [CVPR2023 Highlight]](https://github.com/OpenGVLab/InternImage) - Best performing image-based universal backbone model with up to 3 billion parameters. 90.1% Top1 accuracy in ImageNet, 65.5 mAP on COCO object detection, 62.9 mIoU on ADE20K semantic segmentation.
 - [x] [ViT-Adapter [ICLR2023 Spotlight]](https://github.com/czczup/ViT-Adapter/) - A simple yet powerful adapter for pure ViT, which can remedy the defects of ViT and achieve comparable performance to vision-specific models in dense prediction tasks.
@@ -27,6 +27,6 @@ Related source is copied from: https://kilienazure.com/github-profile-readme/
 - [x] [DDP](https://github.com/JiYuanFeng/DDP) - DDP extends the denoising diffusion process into the modern perception pipeline and shows attractive properties such as dynamic inference and uncertainty awareness.
 
 #### Competitions:
-- [x] [Ego4D 2022](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - 1st place in 5 Ego4D challenges.
 - [x] [WSDM Cup 2023](https://github.com/czczup/ViT-Adapter/tree/main/wsdm2023) - 1st place in the Toloka VQA Challenge.
+- [x] [Ego4D 2022](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - 1st place in 5 Ego4D challenges.
 - [x] [NAIC 2020](https://github.com/czczup/NAIC_RS_NJU_FINAL) - 1st place in the remote sensing semantic segmentation track.
